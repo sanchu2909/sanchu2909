@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanchita Purkait</h1>
 <h3 align="center">Coding enthusiast | Continuous Learner</h3>
 
-- 🌱 I’m currently learning ** Spring Boot,Spring Data JPA,Spring MVC and Microservises**
+- 🌱 I’m currently learning **Spring Boot,Spring Data JPA,Spring MVC and Microservises**
 
 - 📫 How to reach me **sanchitapurkait2909@gmail.com**
 
